@@ -92,3 +92,4 @@ document.addEventListener("keydown", function (event) {
 });
 
 document.getElementById("restartButton").addEventListener("click", resetGame)
+
